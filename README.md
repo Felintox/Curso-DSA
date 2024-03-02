@@ -1,7 +1,7 @@
 
 # Projeto - Análise Exploratória de Dados em Linguagem Python para a Área de Varejo
 
-O objetivo deste projeto feito ao decorrer do meu curso de "Fundamentos de Linguagem Python Para Análise de Dados e Data Science" é responder 10 perguntas de negócio a partir de um dataset sobre uma rede de varejo que comercializa diversos produtos em diversas cidades dos EUA.
+### O objetivo deste projeto feito ao decorrer do meu curso de "Fundamentos de Linguagem Python Para Análise de Dados e Data Science" é responder 10 perguntas de negócio a partir de um dataset sobre uma rede de varejo que comercializa diversos produtos em diversas cidades dos EUA.
 
 # Perguntas de Negócio
 
