@@ -28,7 +28,8 @@
 
 # Pergunta de Negócio 3: Qual o Total de Vendas por estado?
 
-![image](https://github.com/Felintox/Curso-DSA/assets/129033082/391df73f-2116-4d95-9009-2c985df82987)
+<img width="1342" height="649" alt="1" src="https://github.com/user-attachments/assets/838a553d-e1d6-4808-ba94-08f94ba0b540" />
+
 
 
 ### A partir do gráfico acima, podemos ver a distribuição do total de vendas pelo tempo. De acordo com o gráfico, podemos ver estados como "New York" e "California" com alto valor de Venda Total.
@@ -37,7 +38,8 @@
 
 # Pergunta de Negócio 4: Quais são as 10 cidades com maior total de vendas?
 
-![image](https://github.com/Felintox/Curso-DSA/assets/129033082/5c77f120-de75-464e-8b44-b8542bf0b83f)
+
+<img width="1342" height="545" alt="2" src="https://github.com/user-attachments/assets/f40b3637-4386-4ed3-b82e-64a6810f9865" />
 
 
 ### Podemos ver que as cidades de "New York City" e "Los Angeles" estão liderando, fazendo sentido se comparado com o gráfico da Pergunta 3, que envolve os estados.
@@ -48,7 +50,8 @@
 
 ![image](https://github.com/Felintox/Curso-DSA/assets/129033082/1797b98e-2ad3-4707-b701-3646d565194a)
 
-![download](https://github.com/Felintox/Curso-DSA/assets/129033082/6aaa790e-0b28-4a90-bb9a-f11e51e7be0e)
+<img width="3929" height="1586" alt="3" src="https://github.com/user-attachments/assets/e31ff655-1045-4c8f-8960-d51b68c62893" />
+
 
 ### O segmento "Consumer" tem 50,72% das vendas, seguido por "Home Office" com 18,90% e "Corporate" com 30,38%.
 
@@ -92,12 +95,13 @@
 
 ![image](https://github.com/Felintox/Curso-DSA/assets/129033082/3dd38b2a-acf6-40bb-87b8-d735ff774a68)
 
+<img width="3080" height="1586" alt="4" src="https://github.com/user-attachments/assets/4ad336ee-3ccc-4c4a-b391-dce4cdf87614" />
 
-![download](https://github.com/Felintox/Curso-DSA/assets/129033082/38a9c1f5-0a17-41dd-bf3d-cbc70789f484)
 
 ###  Acima, vemos a porcentagem de venda por cada categoria: Tecnologia com 39%, Mobília com 34% e Material de Escritório com 28%.
 
 ![image](https://github.com/Felintox/Curso-DSA/assets/129033082/ac9327a8-d96b-4561-a9e6-cd32031e7dbc)
 
-![download](https://github.com/Felintox/Curso-DSA/assets/129033082/9b07db6c-b239-4487-933b-e8bbfa3cc2eb)
+<img width="4143" height="3552" alt="5" src="https://github.com/user-attachments/assets/6ee0eb27-448d-4907-8b0d-402ca9d3ffdf" />
+
 ### Por fim, temos o total de vendas por categoria e pelas top 12 subcategorias.
